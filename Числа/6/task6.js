@@ -6,5 +6,5 @@ const num5 = +(prompt("Введите пятое число"));
 const a = Math.min (num1, num2, num3, num4, num5);
 const b = Math.max (num1, num2, num3, num4, num5);
 console.log("Наименьшее число =", a);
-console.log( "Наименьшее число =", b);
+console.log("Наибольшее число =", b);
 

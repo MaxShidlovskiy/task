@@ -1,8 +1,8 @@
 const a = +(prompt("Введите число"));
-const b = 1/a;
 
-if (b > 0) {
-    console.log("обратное число", b);
-} else {
+
+if (a == 0) {
     console.log("Обратного числа не существует");
+} else {
+    console.log("обратное число", 1 / a);
 }
