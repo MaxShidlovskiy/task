@@ -23,4 +23,5 @@ if (!(n < 2 || isNaN(n))) {
             max2 = arr2[m];
         } else continue;
     }
-    console.log(max2);}
+    console.log(max2);
+}
